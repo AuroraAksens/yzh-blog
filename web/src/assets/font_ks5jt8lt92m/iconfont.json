@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "925441",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "4186488",
+      "name": "文档",
+      "font_class": "wendang",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "6052200",
+      "name": "工具",
+      "font_class": "tool",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "10056271",
+      "name": "时间",
+      "font_class": "shijian",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    }
+  ]
+}

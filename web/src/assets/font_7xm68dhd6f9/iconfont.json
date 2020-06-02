@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20761",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "330323",
+      "name": "邮箱",
+      "font_class": "email-line2",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "538472",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "902029",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4479986",
+      "name": "文章",
+      "font_class": "wenzhang",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "6256760",
+      "name": "点赞",
+      "font_class": "dianzan_active",
+      "unicode": "e50e",
+      "unicode_decimal": 58638
+    },
+    {
+      "icon_id": "9889473",
+      "name": "图片",
+      "font_class": "picture",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "11940269",
+      "name": "评 论",
+      "font_class": "pinglun",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "12490650",
+      "name": "个人中心",
+      "font_class": "profile",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "14150860",
+      "name": "名字",
+      "font_class": "mingzi",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    }
+  ]
+}
